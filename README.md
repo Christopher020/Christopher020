@@ -1,9 +1,9 @@
   - 👋 Hi, I’m Christopher Uchenna
-- 🌱 Python / Django Alumni @Univelcity
-- 👨‍💻 Software Engineer @Greig Technologies Limited
+- 🌱 React.js / Django Alumni @Univelcity
+- 👨‍💻 Software Engineer (React.js/Next.js) @Greig Technologies Limited
 - 👀 I’m interested in ... Building a better future
-- 🌱 I’m currently learning ... More about Django and Javascript
-- 💞️ I’m looking to collaborate on ... future technology such as ecommerce, fintech, chat web apps and many more.
+- 🌱 I’m currently learning ... More about React.Js and Next.JS
+- 💞️ I’m looking to collaborate on ... future technology such as e-commerce, fintech, chat web apps, and many more.
 - 📫 How to reach me ... uchennachris020@gmail.com
 
 <!---
